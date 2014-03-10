@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kanrisha", "Kanrisha\Kanrisha.csproj", "{0DFC0124-514E-4AAC-94D1-A402260D5E2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kanrisha.Tests", "Kanrisha.Tests\Kanrisha.Tests.csproj", "{91800C79-B86C-4689-A728-D952C881CF6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kanrisha.Services", "Kanrisha.Services\Kanrisha.Services.csproj", "{7816CF20-A674-4B4D-9A75-C262EC77CF6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kanrish.Core", "Kanrish.Core\Kanrish.Core.csproj", "{F40F615F-9079-42EB-ABD7-74856BF4D2F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KanrishaEF", "KanrishaEF\KanrishaEF.csproj", "{39927F66-54A8-43A8-A37E-A1A434CF115E}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs14
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Kanrish.Core\\Kanrish.Core.csproj
+		SccProjectName1 = Kanrish.Core
+		SccLocalPath1 = Kanrish.Core
+		SccProjectUniqueName2 = Kanrisha.Services\\Kanrisha.Services.csproj
+		SccProjectName2 = Kanrisha.Services
+		SccLocalPath2 = Kanrisha.Services
+		SccProjectUniqueName3 = Kanrisha.Tests\\Kanrisha.Tests.csproj
+		SccProjectName3 = Kanrisha.Tests
+		SccLocalPath3 = Kanrisha.Tests
+		SccProjectUniqueName4 = Kanrisha\\Kanrisha.csproj
+		SccProjectName4 = Kanrisha
+		SccLocalPath4 = Kanrisha
+		SccProjectUniqueName5 = EntityFramework\\EntityFramework.csproj
+		SccProjectName5 = EntityFramework
+		SccLocalPath5 = EntityFramework
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DFC0124-514E-4AAC-94D1-A402260D5E2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DFC0124-514E-4AAC-94D1-A402260D5E2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DFC0124-514E-4AAC-94D1-A402260D5E2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DFC0124-514E-4AAC-94D1-A402260D5E2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91800C79-B86C-4689-A728-D952C881CF6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91800C79-B86C-4689-A728-D952C881CF6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91800C79-B86C-4689-A728-D952C881CF6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91800C79-B86C-4689-A728-D952C881CF6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7816CF20-A674-4B4D-9A75-C262EC77CF6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7816CF20-A674-4B4D-9A75-C262EC77CF6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7816CF20-A674-4B4D-9A75-C262EC77CF6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7816CF20-A674-4B4D-9A75-C262EC77CF6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F40F615F-9079-42EB-ABD7-74856BF4D2F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F40F615F-9079-42EB-ABD7-74856BF4D2F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F40F615F-9079-42EB-ABD7-74856BF4D2F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F40F615F-9079-42EB-ABD7-74856BF4D2F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39927F66-54A8-43A8-A37E-A1A434CF115E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39927F66-54A8-43A8-A37E-A1A434CF115E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39927F66-54A8-43A8-A37E-A1A434CF115E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39927F66-54A8-43A8-A37E-A1A434CF115E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
